@@ -1,0 +1,8 @@
+This project will build a multicore microcontroller consisting of 8 RISC-V 32
+bit cores which are running synchronous, each with it's own small RAM. It is
+inspired by the basic concept of the Propeller (P1) from Parallax but uses a new
+designed memory architecture which is configurable in several modes.
+See the doc directory for more details.
+
+Here you can see the current status of the project.
+1. Simulating different memory configuration modes using modified version of Renode
